@@ -2,3 +2,6 @@
 .venv/
 __pycache__/
 *.pyc
+scratch_test.py
+test_llm.py
+list_models.py
